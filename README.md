@@ -10,6 +10,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![Node](https://img.shields.io/badge/-NodeJS-%23F05032?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
+![Python](https://img.shields.io/badge/-Python-%8bc57f50?style=for-the-badge&logo=Python)
 
 | ![jgckM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgckM&show_icons=true&theme=default&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jgckM&layout=compact&theme=default&hide_border=true) |
 | ------------- | ------------- |
