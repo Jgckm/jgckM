@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="profile-left.svg" height="180" alt=""/>
-  <img src="profile-right.svg" height="180" alt=""/>
-</p>
-
 <h1 align="center">Hi there, I'm <strong>jgckm</strong> 👋</h1>
 
 <p align="center">
