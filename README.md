@@ -27,12 +27,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jgckm&theme=transparent" alt="jgckm's stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgckm&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jgckm&theme=transparent" alt="jgckm's stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgckm&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jgckm&label=Profile%20Views&color=1f222e&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jgckm&label=Profile%20Views&color=1f222e&style=flat" alt="profile views"/>
 </p>
