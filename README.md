@@ -1,36 +1,40 @@
-<div align="center">
+<h1>Hi 👋, I'm <strong>jgckm</strong></h1>
 
-# Hi, I'm jgckm 👋
-
-### Front-end Developer | Vue | JavaScript | Python
+<p>A passionate frontend developer from China</p>
 
 ---
 
-### 🛠 Skills
+### 🚀 Languages and Tools I Use
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=vue" width="32"/> Vue | <img src="https://skillicons.dev/icons?i=react" width="32"/> React | <img src="https://skillicons.dev/icons?i=typescript" width="32"/> TypeScript |
-| <img src="https://skillicons.dev/icons?i=javascript" width="32"/> JavaScript | <img src="https://skillicons.dev/icons?i=python" width="32"/> Python | <img src="https://skillicons.dev/icons?i=java" width="32"/> Java |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="32"/> Node.js | <img src="https://skillicons.dev/icons?i=git" width="32"/> Git | <img src="https://skillicons.dev/icons?i=docker" width="32"/> Docker |
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=electron" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+</p>
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
-![JGckm's GitHub Stats](https://stats.justsong.cn/api?username=Jgckm&show_icons=true&theme=default)
-
----
-
-![Top Langs](https://stats.justsong.cn/api/top-langs?username=Jgckm&layout=compact&theme=default)
-
----
-
-### 🔗 Links
-
-[![GitHub](https://img.shields.io/badge/-jgckm-181717?style=flat&logo=github)](https://github.com/jgckm)
-
----
-*Thanks for visiting!* ⭐
-
-</div>
+<p align="center">
+  <img height="180" src="https://stats.justsong.cn/api?username=Jgckm" alt="jgckm's stats"/>
+  <img height="180" src="https://stats.justsong.cn/api/top-langs?username=Jgckm&theme=light" alt="jgckm's languages"/>
+</p>
