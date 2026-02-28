@@ -29,12 +29,3 @@
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://stats.justsong.cn/api?username=Jgckm" alt="jgckm's stats"/>
-  <img height="180" src="https://stats.justsong.cn/api/top-langs?username=Jgckm&theme=light" alt="jgckm's languages"/>
-</p>
