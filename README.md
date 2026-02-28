@@ -27,8 +27,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jgckm&locale=en&line_height=33&show_icons=true&hide=&theme=transparent&rank_icon=default" alt="jgckm's stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgckm&locale=en&line_height=33&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jgckm&theme=transparent" alt="jgckm's stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgckm&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
 </p>
 
 ---
