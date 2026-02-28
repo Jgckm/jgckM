@@ -18,18 +18,23 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,javascript,python,java,react,typescript,nodejs,git,docker" />
-</p>
+```
+ Vue  JavaScript  Python  Java  React  TypeScript  Node.js  Git  Docker
+```
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jgckm&theme=transparent" alt="jgckm's stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgckm&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
-</p>
+| 指标 | 数值 |
+|------|------|
+| Stars | ⭐ |
+| Commits | 📈 |
+| PRs | 🔧 |
+| Issues | 🐛 |
+
+**Top Languages:**
+`Vue` `JavaScript` `Python` `Java`
 
 ---
 
