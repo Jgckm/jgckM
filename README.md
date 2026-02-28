@@ -26,15 +26,10 @@
 
 ### 📊 GitHub Stats
 
-| 指标 | 数值 |
-|------|------|
-| Stars | ⭐ |
-| Commits | 📈 |
-| PRs | 🔧 |
-| Issues | 🐛 |
-
-**Top Languages:**
-`Vue` `JavaScript` `Python` `Java`
+<p align="center">
+  <img height="180" src="https://stats.justsong.cn/api?username=Jgckm" alt="jgckm's stats"/>
+  <img height="180" src="https://stats.justsong.cn/api/top-langs?username=Jgckm&theme=light" alt="jgckm's languages"/>
+</p>
 
 ---
 
