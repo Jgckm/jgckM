@@ -1,3 +1,43 @@
-<p><p/>
-<img height="160px"  align="left" src="https://github-readme-stats.vercel.app/api?username=jgckm&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
-<img height="160px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgckm&locale=en&line_height=33&theme=&langs_count=5&layout=compact"/>
+<p align="center">
+  <img src="profile-left.svg" height="180" alt=""/>
+  <img src="profile-right.svg" height="180" alt=""/>
+</p>
+
+<h1 align="center">Hi there, I'm <strong>jgckm</strong> 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/jgckm">
+    <img src="https://img.shields.io/badge/-jgckm-1f222e?style=flat&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 📝 About Me
+
+- 🔭 Working on: 前端开发
+- 🌱 Learning: Vue3 + TypeScript
+- 👯 Looking to collaborate on: Open source projects
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,javascript,python,java,react,typescript,nodejs,git,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jgckm&locale=en&line_height=33&show_icons=true&hide=&theme=transparent&rank_icon=default" alt="jgckm's stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgckm&locale=en&line_height=33&theme=transparent&langs_count=6&layout=compact" alt="jgckm's languages"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jgckm&label=Profile%20Views&color=1f222e&style=flat" alt="profile views"/>
+</p>
